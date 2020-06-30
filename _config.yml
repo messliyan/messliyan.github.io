@@ -13,7 +13,7 @@ permalink: /:year/:month/:title/
 highlighter: rouge
 
 # supported colors: blue, green, purple, red, orange or slate. If you need clear, leave it empty.
-
+cover_color: green
 
 # The blog button should not be removed.
 blog_button:
@@ -22,7 +22,7 @@ blog_button:
 
 # Navigation buttons in the front page.
 nav:
-    - {title: 当下, description: 当下的力量s, url: 'https://www.ximalaya.com/search/%E5%BD%93%E4%B8%8B%E7%9A%84%E5%8A%9B%E9%87%8F/'}
+    - {title: 当下, description: 当下的力量, url: 'https://www.ximalaya.com/search/%E5%BD%93%E4%B8%8B%E7%9A%84%E5%8A%9B%E9%87%8F/'}
     # - {title: Another Button, description: A button, url: 'http://example.com'}
 
 # Pagination
