@@ -29,9 +29,10 @@ tags: 日记
     func copyItemAtPath(_ srcPath: String, toPath dstPath: String, error: NSErrorPointer)
 ``` 
 
-4、
+4、段落
+换行是使用两个以上空格加上回车  
 
-
+第二段
 
 5、
 >标红的区域块
