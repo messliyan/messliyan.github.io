@@ -21,8 +21,7 @@ tags: 日记
 
  
 3、
-``` java
-    代码块
+```swift
     func copyItemAtPath(_ srcPath: String, toPath dstPath: String, error: NSErrorPointer)
 ``` 
 
