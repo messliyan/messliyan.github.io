@@ -21,7 +21,8 @@ tags: 日记
 
  
 3、
-```swift
+```swift 
+  可以标记类型（取得颜色变化）
     func copyItemAtPath(_ srcPath: String, toPath dstPath: String, error: NSErrorPointer)
 ``` 
 
@@ -36,7 +37,6 @@ tags: 日记
 ---
 列表1：列表
 列表2：列表2
-
 ---
 6、
 >标红的区域块
