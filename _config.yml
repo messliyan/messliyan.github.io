@@ -1,11 +1,11 @@
 # Basic
 title: 云行雨步
-subtitle: 云行雨步的个人博客
-welcome_message: <a href="https://github.com/onevcat/vno-jekyll" target="_blank">Download the theme</a>
-description: Vno Jekyll is a port of my Ghost theme vno.
-creator: <a href="http://onev.cat">@onevcat</a>
+subtitle: 技术什么的不重要了
+welcome_message: <a href="https://www.cnblogs.com/yunxingyubu/" target="_blank">我的博客</a>
+description: 完美的只不过是表面 内在的 透露出的是朴实和凝重 
+creator: <a href="https://www.cnblogs.com/yunxingyubu/">源</a>
 
-url: "http://vno.onevcat.com"
+url: "https://messliyan.github.io/"
 
 permalink: /:year/:month/:title/
 
@@ -13,16 +13,16 @@ permalink: /:year/:month/:title/
 highlighter: rouge
 
 # supported colors: blue, green, purple, red, orange or slate. If you need clear, leave it empty.
-cover_color: red
+cover_color: green
 
 # The blog button should not be removed.
 blog_button:
-    title: Blog
-    description: Visit blog
+    title: 日记
+    description: 日记内容
 
 # Navigation buttons in the front page.
 nav:
-    - {title: Projects, description: My Projects, url: 'http://project.onevcat.com'}
+    - {title: 当下, description: 当下的力量s, url: 'https://www.ximalaya.com/search/%E5%BD%93%E4%B8%8B%E7%9A%84%E5%8A%9B%E9%87%8F/'}
     # - {title: Another Button, description: A button, url: 'http://example.com'}
 
 # Pagination
@@ -38,7 +38,7 @@ comment:
 # Social
 social:
     weibo: onevcat
-    github: onevcat
+    github: 云行雨步
     twitter: onevcat
     gplus: 107108267983477358170
     mail: onev@onevcat.com
