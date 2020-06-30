@@ -11,6 +11,12 @@ tags: 日记
 
 小技巧 可以github在线编辑 和找到别人的博客 然后编辑哦
 
+
+下一段  
+
+俩个以后空格+回车
+
+
 1、
 ### [链接](https://www.runoob.com/markdown/md-tutorial.html)
 
@@ -30,8 +36,6 @@ tags: 日记
   可以标记类型（取得颜色变化）
     func copyItemAtPath(_ srcPath: String, toPath dstPath: String, error: NSErrorPointer)
 ```
-4 个空格或者一个制表符（Tab 键）
- 代码
   
 
 
