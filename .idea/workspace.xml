@@ -19,92 +19,8 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="4f902157-b3cb-4816-98b1-84f135a09060" name="Default Changelist" comment="Revert &quot;2020-9-30&quot;&#10;&#10;This reverts commit d5d2e9b27552054eac29f6e4301a396ccd599a5e.&#10;&#10;# Conflicts:&#10;#&#9;_posts/2020-09-30-hepply.markdown">
-      <change beforePath="$PROJECT_DIR$/.idea/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/.name" beforeDir="false" />
+    <list default="true" id="4f902157-b3cb-4816-98b1-84f135a09060" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_config.yml" beforeDir="false" afterPath="$PROJECT_DIR$/_config.yml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_includes/comments.html" beforeDir="false" afterPath="$PROJECT_DIR$/_includes/comments.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_includes/external.html" beforeDir="false" afterPath="$PROJECT_DIR$/_includes/external.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_includes/footer.html" beforeDir="false" afterPath="$PROJECT_DIR$/_includes/footer.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_includes/head.html" beforeDir="false" afterPath="$PROJECT_DIR$/_includes/head.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_includes/pagination.html" beforeDir="false" afterPath="$PROJECT_DIR$/_includes/pagination.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_includes/read-more.html" beforeDir="false" afterPath="$PROJECT_DIR$/_includes/read-more.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_includes/side-panel.html" beforeDir="false" afterPath="$PROJECT_DIR$/_includes/side-panel.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_includes/social.html" beforeDir="false" afterPath="$PROJECT_DIR$/_includes/social.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_layouts/default.html" beforeDir="false" afterPath="$PROJECT_DIR$/_layouts/default.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_layouts/page.html" beforeDir="false" afterPath="$PROJECT_DIR$/_layouts/page.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_layouts/post.html" beforeDir="false" afterPath="$PROJECT_DIR$/_layouts/post.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_posts/2020-07-22-first2.markdown" beforeDir="false" afterPath="$PROJECT_DIR$/_posts/2020-07-22-first2.markdown" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_sass/_base.scss" beforeDir="false" afterPath="$PROJECT_DIR$/_sass/_base.scss" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_sass/_layout.scss" beforeDir="false" afterPath="$PROJECT_DIR$/_sass/_layout.scss" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_sass/bourbon/addons/_button.scss" beforeDir="false" afterPath="$PROJECT_DIR$/_sass/bourbon/addons/_button.scss" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_sass/bourbon/addons/_clearfix.scss" beforeDir="false" afterPath="$PROJECT_DIR$/_sass/bourbon/addons/_clearfix.scss" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_sass/bourbon/addons/_directional-values.scss" beforeDir="false" afterPath="$PROJECT_DIR$/_sass/bourbon/addons/_directional-values.scss" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_sass/bourbon/addons/_html5-input-types.scss" beforeDir="false" afterPath="$PROJECT_DIR$/_sass/bourbon/addons/_html5-input-types.scss" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_sass/bourbon/addons/_position.scss" beforeDir="false" afterPath="$PROJECT_DIR$/_sass/bourbon/addons/_position.scss" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_sass/bourbon/addons/_prefixer.scss" beforeDir="false" afterPath="$PROJECT_DIR$/_sass/bourbon/addons/_prefixer.scss" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_sass/bourbon/addons/_retina-image.scss" beforeDir="false" afterPath="$PROJECT_DIR$/_sass/bourbon/addons/_retina-image.scss" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_sass/bourbon/addons/_timing-functions.scss" beforeDir="false" afterPath="$PROJECT_DIR$/_sass/bourbon/addons/_timing-functions.scss" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_sass/bourbon/addons/_triangle.scss" beforeDir="false" afterPath="$PROJECT_DIR$/_sass/bourbon/addons/_triangle.scss" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_sass/bourbon/css3/_animation.scss" beforeDir="false" afterPath="$PROJECT_DIR$/_sass/bourbon/css3/_animation.scss" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_sass/bourbon/css3/_appearance.scss" beforeDir="false" afterPath="$PROJECT_DIR$/_sass/bourbon/css3/_appearance.scss" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_sass/bourbon/css3/_background-image.scss" beforeDir="false" afterPath="$PROJECT_DIR$/_sass/bourbon/css3/_background-image.scss" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_sass/bourbon/css3/_background.scss" beforeDir="false" afterPath="$PROJECT_DIR$/_sass/bourbon/css3/_background.scss" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_sass/bourbon/css3/_border-image.scss" beforeDir="false" afterPath="$PROJECT_DIR$/_sass/bourbon/css3/_border-image.scss" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_sass/bourbon/css3/_box-sizing.scss" beforeDir="false" afterPath="$PROJECT_DIR$/_sass/bourbon/css3/_box-sizing.scss" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_sass/bourbon/css3/_calc.scss" beforeDir="false" afterPath="$PROJECT_DIR$/_sass/bourbon/css3/_calc.scss" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_sass/bourbon/css3/_columns.scss" beforeDir="false" afterPath="$PROJECT_DIR$/_sass/bourbon/css3/_columns.scss" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_sass/bourbon/css3/_flex-box.scss" beforeDir="false" afterPath="$PROJECT_DIR$/_sass/bourbon/css3/_flex-box.scss" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_sass/bourbon/css3/_font-face.scss" beforeDir="false" afterPath="$PROJECT_DIR$/_sass/bourbon/css3/_font-face.scss" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_sass/bourbon/css3/_font-feature-settings.scss" beforeDir="false" afterPath="$PROJECT_DIR$/_sass/bourbon/css3/_font-feature-settings.scss" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_sass/bourbon/css3/_hyphens.scss" beforeDir="false" afterPath="$PROJECT_DIR$/_sass/bourbon/css3/_hyphens.scss" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_sass/bourbon/css3/_image-rendering.scss" beforeDir="false" afterPath="$PROJECT_DIR$/_sass/bourbon/css3/_image-rendering.scss" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_sass/bourbon/css3/_keyframes.scss" beforeDir="false" afterPath="$PROJECT_DIR$/_sass/bourbon/css3/_keyframes.scss" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_sass/bourbon/css3/_linear-gradient.scss" beforeDir="false" afterPath="$PROJECT_DIR$/_sass/bourbon/css3/_linear-gradient.scss" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_sass/bourbon/css3/_radial-gradient.scss" beforeDir="false" afterPath="$PROJECT_DIR$/_sass/bourbon/css3/_radial-gradient.scss" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_sass/bourbon/css3/_transform.scss" beforeDir="false" afterPath="$PROJECT_DIR$/_sass/bourbon/css3/_transform.scss" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_sass/bourbon/css3/_transition.scss" beforeDir="false" afterPath="$PROJECT_DIR$/_sass/bourbon/css3/_transition.scss" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_sass/bourbon/functions/_assign.scss" beforeDir="false" afterPath="$PROJECT_DIR$/_sass/bourbon/functions/_assign.scss" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_sass/bourbon/functions/_modular-scale.scss" beforeDir="false" afterPath="$PROJECT_DIR$/_sass/bourbon/functions/_modular-scale.scss" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_sass/bourbon/functions/_px-to-em.scss" beforeDir="false" afterPath="$PROJECT_DIR$/_sass/bourbon/functions/_px-to-em.scss" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_sass/bourbon/functions/_px-to-rem.scss" beforeDir="false" afterPath="$PROJECT_DIR$/_sass/bourbon/functions/_px-to-rem.scss" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_sass/bourbon/functions/_tint-shade.scss" beforeDir="false" afterPath="$PROJECT_DIR$/_sass/bourbon/functions/_tint-shade.scss" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_sass/bourbon/functions/_transition-property-name.scss" beforeDir="false" afterPath="$PROJECT_DIR$/_sass/bourbon/functions/_transition-property-name.scss" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_sass/bourbon/functions/_unpack.scss" beforeDir="false" afterPath="$PROJECT_DIR$/_sass/bourbon/functions/_unpack.scss" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_sass/bourbon/helpers/_convert-units.scss" beforeDir="false" afterPath="$PROJECT_DIR$/_sass/bourbon/helpers/_convert-units.scss" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_sass/bourbon/helpers/_gradient-positions-parser.scss" beforeDir="false" afterPath="$PROJECT_DIR$/_sass/bourbon/helpers/_gradient-positions-parser.scss" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_sass/bourbon/helpers/_linear-angle-parser.scss" beforeDir="false" afterPath="$PROJECT_DIR$/_sass/bourbon/helpers/_linear-angle-parser.scss" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_sass/bourbon/helpers/_linear-gradient-parser.scss" beforeDir="false" afterPath="$PROJECT_DIR$/_sass/bourbon/helpers/_linear-gradient-parser.scss" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_sass/bourbon/helpers/_linear-positions-parser.scss" beforeDir="false" afterPath="$PROJECT_DIR$/_sass/bourbon/helpers/_linear-positions-parser.scss" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_sass/bourbon/helpers/_linear-side-corner-parser.scss" beforeDir="false" afterPath="$PROJECT_DIR$/_sass/bourbon/helpers/_linear-side-corner-parser.scss" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_sass/bourbon/helpers/_radial-arg-parser.scss" beforeDir="false" afterPath="$PROJECT_DIR$/_sass/bourbon/helpers/_radial-arg-parser.scss" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_sass/bourbon/helpers/_radial-gradient-parser.scss" beforeDir="false" afterPath="$PROJECT_DIR$/_sass/bourbon/helpers/_radial-gradient-parser.scss" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_sass/bourbon/helpers/_radial-positions-parser.scss" beforeDir="false" afterPath="$PROJECT_DIR$/_sass/bourbon/helpers/_radial-positions-parser.scss" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_sass/bourbon/helpers/_render-gradients.scss" beforeDir="false" afterPath="$PROJECT_DIR$/_sass/bourbon/helpers/_render-gradients.scss" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_sass/bourbon/helpers/_str-to-num.scss" beforeDir="false" afterPath="$PROJECT_DIR$/_sass/bourbon/helpers/_str-to-num.scss" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_sass/bourbon/settings/_prefixer.scss" beforeDir="false" afterPath="$PROJECT_DIR$/_sass/bourbon/settings/_prefixer.scss" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_sass/components/_buttons.scss" beforeDir="false" afterPath="$PROJECT_DIR$/_sass/components/_buttons.scss" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_sass/components/_icons.scss" beforeDir="false" afterPath="$PROJECT_DIR$/_sass/components/_icons.scss" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_sass/components/_navigation.scss" beforeDir="false" afterPath="$PROJECT_DIR$/_sass/components/_navigation.scss" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_sass/components/_pagination.scss" beforeDir="false" afterPath="$PROJECT_DIR$/_sass/components/_pagination.scss" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_sass/components/_panels.scss" beforeDir="false" afterPath="$PROJECT_DIR$/_sass/components/_panels.scss" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_sass/components/_post-list.scss" beforeDir="false" afterPath="$PROJECT_DIR$/_sass/components/_post-list.scss" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_sass/components/_read-more.scss" beforeDir="false" afterPath="$PROJECT_DIR$/_sass/components/_read-more.scss" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_sass/global.scss" beforeDir="false" afterPath="$PROJECT_DIR$/_sass/global.scss" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_sass/grid.scss" beforeDir="false" afterPath="$PROJECT_DIR$/_sass/grid.scss" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_sass/media-queries.scss" beforeDir="false" afterPath="$PROJECT_DIR$/_sass/media-queries.scss" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_sass/reset.scss" beforeDir="false" afterPath="$PROJECT_DIR$/_sass/reset.scss" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_sass/sections/_post.scss" beforeDir="false" afterPath="$PROJECT_DIR$/_sass/sections/_post.scss" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_sass/variables.scss" beforeDir="false" afterPath="$PROJECT_DIR$/_sass/variables.scss" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/css/animate.css" beforeDir="false" afterPath="$PROJECT_DIR$/css/animate.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/css/main.scss" beforeDir="false" afterPath="$PROJECT_DIR$/css/main.scss" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/css/tomorrow.css" beforeDir="false" afterPath="$PROJECT_DIR$/css/tomorrow.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/feed.xml" beforeDir="false" afterPath="$PROJECT_DIR$/feed.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/js/main.js" beforeDir="false" afterPath="$PROJECT_DIR$/js/main.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/mymessliyan.github.iml" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -165,7 +81,7 @@
       <workItem from="1597655670026" duration="163000" />
       <workItem from="1597655944887" duration="169000" />
       <workItem from="1601430867366" duration="1858000" />
-      <workItem from="1601432755322" duration="311000" />
+      <workItem from="1601432755322" duration="412000" />
     </task>
     <task id="LOCAL-00001" summary="2020-9-30">
       <created>1601431453272</created>
@@ -202,7 +118,14 @@
       <option name="project" value="LOCAL" />
       <updated>1601432588155</updated>
     </task>
-    <option name="localTasksCounter" value="6" />
+    <task id="LOCAL-00006" summary="Revert &quot;2020-9-30&quot;&#10;&#10;This reverts commit d5d2e9b27552054eac29f6e4301a396ccd599a5e.&#10;&#10;# Conflicts:&#10;#&#9;_posts/2020-09-30-hepply.markdown">
+      <created>1601433087094</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1601433087094</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -230,10 +153,10 @@
     <option name="LAST_COMMIT_MESSAGE" value="Revert &quot;2020-9-30&quot;&#10;&#10;This reverts commit d5d2e9b27552054eac29f6e4301a396ccd599a5e.&#10;&#10;# Conflicts:&#10;#&#9;_posts/2020-09-30-hepply.markdown" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="517" y="47" key="CommitChangelistDialog2" timestamp="1601433007779">
+    <state x="517" y="47" key="CommitChangelistDialog2" timestamp="1601433086422">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="517" y="47" key="CommitChangelistDialog2/0.0.1920.1040@0.0.1920.1040" timestamp="1601433007779" />
+    <state x="517" y="47" key="CommitChangelistDialog2/0.0.1920.1040@0.0.1920.1040" timestamp="1601433086422" />
     <state x="92" y="92" width="1736" height="856" key="DiffContextDialog" timestamp="1601432670761">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
@@ -254,10 +177,10 @@
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="806" y="433" key="VCS.ChangelistChooser/0.0.1920.1040@0.0.1920.1040" timestamp="1601431964811" />
-    <state x="552" y="252" key="Vcs.Push.Dialog.v2" timestamp="1601432475820">
+    <state x="552" y="252" key="Vcs.Push.Dialog.v2" timestamp="1601433096066">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="552" y="252" key="Vcs.Push.Dialog.v2/0.0.1920.1040@0.0.1920.1040" timestamp="1601432475820" />
+    <state x="552" y="252" key="Vcs.Push.Dialog.v2/0.0.1920.1040@0.0.1920.1040" timestamp="1601433096066" />
     <state x="92" y="92" width="1736" height="856" key="com.intellij.history.integration.ui.views.DirectoryHistoryDialog" timestamp="1601431688506">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
