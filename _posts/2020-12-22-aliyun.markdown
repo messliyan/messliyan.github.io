@@ -1,0 +1,106 @@
+---
+layout: post
+title: 阿里云使用和学习笔记
+date: 2020-11-13 09:05:00.000000000 +08:00
+tags: 当下的力量
+---
+- - -
+![早上](/assets/images/time/morning.png)
+&nbsp; &nbsp;找一个[电子书](http://www.yuexinli.com/renzhixinlixue/dangxi/)
+## 我买了一个域名，花了6元
+## 我买了一年的轻用服务器 花了116元
+## 我在看轻量应用服务器用户手册
+### 定位
+单机应用场景，应用一键部署  
+一站式的域名、网站、安全、运维、应用管理等服务  
+### 有些啥
+应用镜像-+系统镜像-+计算资源-+基础功能（DNS，VPC--）
+
+## 数据（库）管理DMS
+
+## 容器服务Kubernetes版
+### 概念 
+DevOps 自动化  
+实现从代码变更到代码构建、镜像构建和应用部署的全流程自动化  
+ 
+## 教程
+### java
+#### 主要以企业开发为主
+#### 重点在高并发和高可用
+#### 编译型=exe文件 解析型=自己运行
+#### 泛型=new+<T>-int=该对象所有T都变为int（避免向下转型）
+#### 枚举->私有构造=多例模式
+#### 默认不开启断言=javb -ea 可以开启
+#### （接口。内，方法中都可以）内部类=outer$Inner。class=外部类.内部类
+####  匿名内部类=new 接口=没有名字+只能使用一次的（接口）内部类
+#### 内部类-匿名内部类-lamda表达式(函数式接口[只要一个方法]+@Funti)
+![内部类](/assets/images/2020/12-24/lamda表达式.png)
+![匿名内部类](/assets/images/2020/12-24/内部类.png)
+![lamda表达式](/assets/images/2020/12-24/匿名内部类.jpg)
+#### :: 方法引用【方法起别名|】+函数式接口 =方法作为参数
+    :: =先定性[new=构造[=返回本对象] 对象=普通方法 类=静态方法]
+    . =调用定好的方法
+    
+#### 实例
+```
+@FunctionalInterface
+interface IFunctionStatic<R, P> {
+  public R change(P p);
+
+  class inter implements IFunctionStatic<String, Integer>{//内部类
+    @Override
+    public String change(Integer integer) {
+      return Integer.valueOf(integer).toString()
+          + " -----内部类";
+    }
+  }
+}
+class Interg {
+  Integer integer ;
+  Interg(){}
+  public Interg(Integer integer) {
+    this.integer=integer;
+  }
+
+  public static String in(Integer integer) { return Integer.valueOf(integer).toString()
+      + " -----方法引用 :: 静态方法"; }
+
+  public  String pu(Integer integer) { return Integer.valueOf(integer).toString()
+      + " -----方法引用 :: 对象方法"; }
+
+  @Override
+  public String toString() {
+    return Integer.valueOf(integer).toString()+"----方法引用 :: 构造函数";
+  }
+
+  public static void main(String[] args) {
+    Interg inte=new Interg();
+    //内部类
+    IFunctionStatic<String, Integer> function=new IFunctionStatic.inter();
+    System.out.println(function.change(110));//内部类
+
+    //匿名内部类
+    function = new IFunctionStatic<String, Integer>() {
+      @Override
+      public String change(Integer integer) {
+        return Integer.valueOf(integer).toString()+"-----匿名内部类";
+      }
+    };
+    System.out.println(function.change(119));//匿名内部类
+
+    //lamda表达式
+    function=intg->
+       Integer.valueOf(intg).toString()+"-----lamda表达式";
+    System.out.println(function.change(120));//lamda表达式
+
+    function = Interg::in;
+    System.out.println(function.change(135));//静态方法 设方法别名
+
+    function=inte::pu;
+    System.out.println(function.change(122));//普通方法 方法引用
+
+    IFunctionStatic<Interg, Integer> createFunction=Interg::new;
+    System.out.println(createFunction.change(145).toString());//构造函数 =返回它本身
+
+  }
+```
